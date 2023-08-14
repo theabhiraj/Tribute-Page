@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4 ;
+    background-image :url('bg-img.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.p0 {
+    background-image: url('bg_img.jpg');
+    color : white;
+    font-size : 20px;
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    padding: 50px;
+    background-image :url('bg_img.jpg');
+    background-size: cover;
+}
+
+.p2 {
+    color : white;
+    font-size : 20px;
+    font-family: 'Verdana', sans-serif;
+    background-color: red;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    padding: 50px;
+}
+.p1 {
+    color : white;
+    font-size : 20px;
+    font-family: 'Verdana', sans-serif;
+    background-color: teal;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    padding: 50px;
+
+}
